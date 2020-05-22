@@ -22,100 +22,195 @@ Enter amenities price in $ (should be a number): 8
 Enter the amenities name: AC
 
 Enter amenities price in $ (should be a number): 9
+
 Enter the amenities name: DOUBLE Bed
+
 Enter amenities price in $ (should be a number): 10
+
 Enter the amenities name: Table
+
 Enter amenities price in $ (should be a number): 6
+
 Enter the amenities name: Sofa
+
 Enter amenities price in $ (should be a number): 8
+
 Do you want to add more amenities(Yes/No): No
+
 Do you want to add more Room(Yes/No): Yes
+
 Enter Room Number: 2222
+
 Enter the amenities name: TV
+
 Enter amenities price in $ (should be a number): 8
+
 Enter the amenities name: AC
+
 Enter amenities price in $ (should be a number): 9
+
 Enter the amenities name: Single BED
+
 Enter amenities price in $ (should be a number): 5
+
 Enter the amenities name: Table
+
 Enter amenities price in $ (should be a number): 6
+
 Enter the amenities name: Chair
+
 Enter amenities price in $ (should be a number): 4
+
 Do you want to add more amenities(Yes/No): No
+
 Do you want to add more Room(Yes/No): Yes
+
 Enter Room Number: 3333
+
 Enter the amenities name: TV
+
 Enter amenities price in $ (should be a number): 8
+
 Enter the amenities name: AC
+
 Enter amenities price in $ (should be a number): 9
+
 Enter the amenities name: Double Bed
+
 Enter amenities price in $ (should be a number): 10
+
 Enter the amenities name: Sofa
+
 Enter amenities price in $ (should be a number): 8
+
 Enter the amenities name: Coffee Maker
+
 Enter amenities price in $ (should be a number): 6
+
 Do you want to add more amenities(Yes/No): No
+
 Do you want to add more Room(Yes/No): YES
+
 Enter Room Number: 4444
+
 Enter the amenities name: TV
+
 Enter amenities price in $ (should be a number): 8
+
 Enter the amenities name: AC
+
 Enter amenities price in $ (should be a number): 9
+
 Enter the amenities name: DOUBLE Bed
+
 Enter amenities price in $ (should be a number): 10
+
 Enter the amenities name: SOFA
+
 Enter amenities price in $ (should be a number): 8
+
 Enter the amenities name: Coffee MAKER
+
 Enter amenities price in $ (should be a number): 6
+
 Do you want to add more amenities(Yes/No): Yes
+
 Enter the amenities name: Pool
+
 Enter amenities price in $ (should be a number): 15
+
 Do you want to add more amenities(Yes/No): yes
+
 Enter the amenities name: Balcony
+
 Enter amenities price in $ (should be a number): 8
+
 Do you want to add more amenities(Yes/No): No
+
 Do you want to add more Room(Yes/No): yes
+
 Enter Room Number: 5555
+
 Enter the amenities name: TV
+
 Enter amenities price in $ (should be a number): 8
+
 Enter the amenities name: AC
+
 Enter amenities price in $ (should be a number): 9
+
 Enter the amenities name: Single Bed
+
 Enter amenities price in $ (should be a number): 5
+
 Enter the amenities name: Chair
+
 Enter amenities price in $ (should be a number): 4
+
 Enter the amenities name: Table
+
 Enter amenities price in $ (should be a number): 6
+
 Do you want to add more amenities(Yes/No): yes
+
 Enter the amenities name: Balcony
+
 Enter amenities price in $ (should be a number): 8
+
 Do you want to add more amenities(Yes/No): yes
+
 Enter the amenities name: pool
+
 Enter amenities price in $ (should be a number): 15
+
 Do you want to add more amenities(Yes/No): no
+
 Do you want to add more Room(Yes/No): yes
+
 Enter Room Number: 6666
+
 Enter the amenities name: TV
+
 Enter amenities price in $ (should be a number): 8
+
 Enter the amenities name: AC
+
 Enter amenities price in $ (should be a number): 9
+
 Enter the amenities name: Double Bed
+
 Enter amenities price in $ (should be a number): 10
+
 Enter the amenities name: Sofa
+
 Enter amenities price in $ (should be a number): 8
+
 Enter the amenities name: pool
+
 Enter amenities price in $ (should be a number): 15
+
 Do you want to add more amenities(Yes/No): yes
+
 Enter the amenities name: coffee maker
+
 Enter amenities price in $ (should be a number): 6
+
 Do you want to add more amenities(Yes/No): yes
+
 Enter the amenities name: balcony
+
 Enter amenities price in $ (should be a number): 8
+
 Do you want to add more amenities(Yes/No): yes
+
 Enter the amenities name: Iron
+
 Enter amenities price in $ (should be a number): 5
+
 Do you want to add more amenities(Yes/No): No
+
 Do you want to add more Room(Yes/No): No
+
 Do you want to add New Hotel (Yes/No): No
 
 
@@ -123,10 +218,15 @@ Do you want to add New Hotel (Yes/No): No
 TAJ HOTEL Hotel have following rooms
 
 Room No 1111 have the amenities like TV, AC, DOUBLE Bed, Table, Sofa, and room rent is $41.
+
 Room No 2222 have the amenities like TV, AC, Single BED, Table, Chair, and room rent is $32.
+
 Room No 3333 have the amenities like TV, AC, Double Bed, Sofa, Coffee Maker, and room rent is $41.
+
 Room No 4444 have the amenities like TV, AC, DOUBLE Bed, SOFA, Coffee MAKER, Pool, Balcony, and room rent is $64.
+
 Room No 5555 have the amenities like TV, AC, Single Bed, Chair, Table, Balcony, pool, and room rent is $55.
+
 Room No 6666 have the amenities like TV, AC, Double Bed, Sofa, pool, coffee maker, balcony, Iron, and room rent is $69.
 
 ***********************************************************
@@ -141,8 +241,11 @@ Please enter your budget: 60
 TAJ HOTEL Hotel have following rooms matching your budget
 
 Room No 1111 have the amenities like TV, AC, DOUBLE Bed, Table, Sofa, and room rent is $41.
+
 Room No 2222 have the amenities like TV, AC, Single BED, Table, Chair, and room rent is $32.
+
 Room No 3333 have the amenities like TV, AC, Double Bed, Sofa, Coffee Maker, and room rent is $41.
+
 Room No 5555 have the amenities like TV, AC, Single Bed, Chair, Table, Balcony, pool, and room rent is $55.
 
 ***********************************************************
