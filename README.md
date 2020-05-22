@@ -13,6 +13,7 @@ It should provide us with an interactive command prompt based shell with the fol
 
 
 #OUTPUT
+
 Enter Hotel name: TAJ HOTEL
 Enter Room Number: 1111
 Enter the amenities name: TV
