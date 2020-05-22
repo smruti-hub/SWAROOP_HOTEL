@@ -217,17 +217,17 @@ Do you want to add New Hotel (Yes/No): No
 
 TAJ HOTEL Hotel have following rooms
 
-Room No 1111 have the amenities like TV, AC, DOUBLE Bed, Table, Sofa, and room rent is $41.
+Room No 1111 have the amenities like TV, AC, DOUBLE Bed, Table, Sofa, and room price is $41.
 
-Room No 2222 have the amenities like TV, AC, Single BED, Table, Chair, and room rent is $32.
+Room No 2222 have the amenities like TV, AC, Single BED, Table, Chair, and room price is $32.
 
-Room No 3333 have the amenities like TV, AC, Double Bed, Sofa, Coffee Maker, and room rent is $41.
+Room No 3333 have the amenities like TV, AC, Double Bed, Sofa, Coffee Maker, and room price is $41.
 
-Room No 4444 have the amenities like TV, AC, DOUBLE Bed, SOFA, Coffee MAKER, Pool, Balcony, and room rent is $64.
+Room No 4444 have the amenities like TV, AC, DOUBLE Bed, SOFA, Coffee MAKER, Pool, Balcony, and room price is $64.
 
-Room No 5555 have the amenities like TV, AC, Single Bed, Chair, Table, Balcony, pool, and room rent is $55.
+Room No 5555 have the amenities like TV, AC, Single Bed, Chair, Table, Balcony, pool, and room price is $55.
 
-Room No 6666 have the amenities like TV, AC, Double Bed, Sofa, pool, coffee maker, balcony, Iron, and room rent is $69.
+Room No 6666 have the amenities like TV, AC, Double Bed, Sofa, pool, coffee maker, balcony, Iron, and room price is $69.
 
 ***********************************************************
 
@@ -240,13 +240,13 @@ Please enter your budget: 60
 
 TAJ HOTEL Hotel have following rooms matching your budget
 
-Room No 1111 have the amenities like TV, AC, DOUBLE Bed, Table, Sofa, and room rent is $41.
+Room No 1111 have the amenities like TV, AC, DOUBLE Bed, Table, Sofa, and room price is $41.
 
-Room No 2222 have the amenities like TV, AC, Single BED, Table, Chair, and room rent is $32.
+Room No 2222 have the amenities like TV, AC, Single BED, Table, Chair, and room price is $32.
 
-Room No 3333 have the amenities like TV, AC, Double Bed, Sofa, Coffee Maker, and room rent is $41.
+Room No 3333 have the amenities like TV, AC, Double Bed, Sofa, Coffee Maker, and room price is $41.
 
-Room No 5555 have the amenities like TV, AC, Single Bed, Chair, Table, Balcony, pool, and room rent is $55.
+Room No 5555 have the amenities like TV, AC, Single Bed, Chair, Table, Balcony, pool, and room price is $55.
 
 ***********************************************************
 
