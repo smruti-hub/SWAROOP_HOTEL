@@ -77,7 +77,7 @@ class Hotel():
 
     def show(self, budget=0):
         for hotel_name, room_info in self.data.items():
-            context = "\nRoom No {0} have the amenities like {1}, and room rent is ${2}."
+            context = "\nRoom No {0} have the amenities like {1}, and room price is ${2}."
             if budget == 0:
                 data = '\n\n\n{0} Hotel have following rooms\n'.format(hotel_name)
                 for room, amenti_info in room_info.items():
