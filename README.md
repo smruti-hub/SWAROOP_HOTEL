@@ -12,10 +12,15 @@ It should provide us with an interactive command prompt based shell with the fol
 
 # OUTPUT
 Enter Hotel name: TAJ HOTEL
+
 Enter Room Number: 1111
+
 Enter the amenities name: TV
+
 Enter amenities price in $ (should be a number): 8
+
 Enter the amenities name: AC
+
 Enter amenities price in $ (should be a number): 9
 Enter the amenities name: DOUBLE Bed
 Enter amenities price in $ (should be a number): 10
